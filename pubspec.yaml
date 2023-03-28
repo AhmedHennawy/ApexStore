@@ -40,7 +40,8 @@ dependencies:
   flutter_downloader: ^1.10.2
   path_provider: ^2.0.13
   permission_handler: ^10.2.0
-
+  path_provider_android: ^2.0.24
+  device_info_plus: ^8.1.0
 
 
 

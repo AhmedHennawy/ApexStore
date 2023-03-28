@@ -1313,7 +1313,12 @@ kotlin/jvm/Volatile.class
 kotlin/jvm/internal/FunctionImpl.class
 kotlin/jvm/internal/RepeatableContainer.class
 kotlin/jvm/internal/SerializedIr.class
+kotlin/ranges/CharRange.class
+kotlin/ranges/IntRange.class
+kotlin/ranges/LongRange.class
 kotlin/ranges/RangesKt___RangesKt.class
+kotlin/ranges/UIntRange.class
+kotlin/ranges/ULongRange.class
 kotlin/sequences/SequencesKt___SequencesJvmKt.class
 kotlin/sequences/SequencesKt___SequencesKt.class
 kotlin/text/CharsKt__CharJVMKt.class
