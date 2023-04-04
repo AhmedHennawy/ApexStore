@@ -5,12 +5,11 @@ import 'screens/HomePage.dart';
 import './screens/StartScreen.dart';
 
 Future<void>  main() async {
-  //WidgetsFlutterBinding.ensureInitialized();
-   //FlutterDownloader.initialize(
-      //debug: true
-  //);
-  //await Permission.storage.request();
-
+  WidgetsFlutterBinding.ensureInitialized();
+   FlutterDownloader.initialize(
+      debug: true
+  );
+  await Permission.storage.request();
   runApp(const MyApp());
 }
 
