@@ -28,11 +28,7 @@ class _HomePageState extends State<HomePage> {
                   });
                 },
               ),
-              isLoad
-                  ? Center(
-                      child: CircularProgressIndicator(),
-                    )
-                  : Stack(),
+              
             ],
         ),
       ),
